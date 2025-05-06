@@ -1,4 +1,4 @@
-# lab-md-02
+# lab-md-02-03
 Repositório visa consolidar o conhecimento apresentado na aula. 
 
 Módulo 02 - Trabalhando com repositórios, abordando os seguintes tópicos:  

@@ -1,10 +1,22 @@
 # lab-md-02
-Repositório visa consolidar o conhecimento apresentado na aula do módulo 02 - Trabalhando com repositórios, abordando os seguintes tópicos:  
+Repositório visa consolidar o conhecimento apresentado na aula. 
 
-> Criação de repositório;
+Módulo 02 - Trabalhando com repositórios, abordando os seguintes tópicos:  
 
-> Adição de arquivos;
+> Criação de repositório
 
-> Adição de branch;
+> Adição de arquivos
 
-> Clone de repositório;
+> Adição de branch
+
+> Clone de repositório
+
+Módulo 03 - Features de colaboração, abordando os seguintes tópicos:
+
+> Issues: criar e gerenciar
+
+> PR: criar e gerenciar Pull-Request
+
+> Discussions: habilitar, criar e gerenciar
+
+> Wikis: Criar e gerenciar  
